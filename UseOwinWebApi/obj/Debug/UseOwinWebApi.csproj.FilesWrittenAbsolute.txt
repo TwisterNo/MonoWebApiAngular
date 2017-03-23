@@ -1,0 +1,16 @@
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.Razor.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/Microsoft.Web.Infrastructure.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.Helpers.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.WebPages.Deployment.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.WebPages.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.WebPages.Razor.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.Mvc.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Net.Http.Formatting.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.Http.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/System.Web.Http.WebHost.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/Newtonsoft.Json.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/UseOwinWebApi.dll.mdb
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/bin/UseOwinWebApi.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/obj/Debug/UseOwinWebApi.dll
+/Users/palblomsethsorensen/Projects/UseOwinWebApi/UseOwinWebApi/obj/Debug/UseOwinWebApi.dll.mdb
